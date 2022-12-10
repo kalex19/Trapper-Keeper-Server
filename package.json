@@ -6,7 +6,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "esm": "^3.2.25",
-    "express": "^4.17.0",
+    "express": "^4.17.3",
     "jest": "^24.8.0",
     "nodemon": "^1.19.0"
   },
